@@ -102,6 +102,10 @@ In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
 * **calculate_SSD** : Calculates the Sum of Squared Differences (SSD) for a set of waveforms, which is a measure of the variance or spread of each waveform around its mean.
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## Script
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
