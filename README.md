@@ -88,7 +88,7 @@ This project aims to classify the echoes in leads and sea ice and produce an ave
 * Sentinel-2 optical data, Sentinel-3 OLCI, and altimetry data are used in this project. You will need an account (username and password) to download the data from the Copernicus dataspace.
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE -->
 ## Functions
 
 In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
@@ -101,21 +101,6 @@ In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/skyswpark/Week_4_Assignment/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
