@@ -21,7 +21,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/skyswpark/Week_4_Assignment">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">classifying_the_echoes_in_leads_and_sea_ice</h3>
