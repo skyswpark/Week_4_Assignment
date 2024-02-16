@@ -93,9 +93,11 @@ This project aims to classify the echoes in leads and sea ice and produce an ave
 
 In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
-* **peakiness** :
-* **unpack_gpod** :
-* **calculate_SSD** :
+* **peakiness** : Calculates the peakiness of waveforms, which is a measure that compares the maximum amplitude of a waveform to its average amplitude within a specific window around the peak.
+
+* **unpack_gpod** : Handles the unpacking and interpolation of variables from a Generic Product Output Data (GPOD) format.
+
+* **calculate_SSD** : Calculates the Sum of Squared Differences (SSD) for a set of waveforms, which is a measure of the variance or spread of each waveform around its mean.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
