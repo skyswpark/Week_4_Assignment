@@ -72,16 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims to classify the echoes in leads and sea ice and produce an average echo shape as well as standard deviation for these two classes.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+This project aims to classify the echoes in leads and sea ice and produce an average echo shape as well as standard deviation for these two classes. For image classification K-means implementation and GMM implementation are used. Then these unsupervised methods are used for altimetry classification tasks, focusing specifically on distinguishing between sea ice and leads in Sentinel-3 altimetry dataset.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,37 +84,19 @@ This project aims to classify the echoes in leads and sea ice and produce an ave
 
 ### Prerequisites
 
-
 * This project uses Google Colab to run the scripts. When using Google Colab, you will need a Google account for access to Colab and your Google drive.
 * Sentinel-2 optical data, Sentinel-3 OLCI, and altimetry data are used in this project. You will need an account (username and password) to download the data from the Copernicus dataspace.
 
 
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/skyswpark/Week_4_Assignment.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
-## Usage
+## Functions
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+* **peakiness** :
+* **unpack_gpod** :
+* **calculate_SSD** :
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,15 +129,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
