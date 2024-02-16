@@ -88,6 +88,9 @@ This project aims to classify the echoes in leads and sea ice and produce an ave
 * Sentinel-2 optical data, Sentinel-3 OLCI, and altimetry data are used in this project. You will need an account (username and password) to download the data from the Copernicus dataspace.
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- USAGE -->
 ## Functions
 
@@ -99,6 +102,7 @@ In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
 * **calculate_SSD** : Calculates the Sum of Squared Differences (SSD) for a set of waveforms, which is a measure of the variance or spread of each waveform around its mean.
 
+## Script
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,8 +121,8 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
