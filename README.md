@@ -185,7 +185,7 @@ Project Link: [https://github.com/skyswpark/Week_4_Assignment](https://github.co
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* UCL Module Artificial Intelligence for Earth Observation GEOL0069
+* UCL Module GEOL0069: Artificial Intelligence for Earth Observation
 * []()
 * []()
 
