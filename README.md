@@ -75,6 +75,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+This project aims to classify the echoes in leads and sea ice and produce an average echo shape as well as standard deviation for these two classes.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
