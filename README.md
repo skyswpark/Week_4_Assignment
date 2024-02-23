@@ -23,7 +23,7 @@
   <a href="https://github.com/skyswpark/Week_4_Assignment">
   </a>
 
-<h3 align="center">classifying_the_echoes_in_leads_and_sea_ice</h3>
+<h3 align="center">Classifying the Echoes in Sea Ice and Leads</h3>
 
   <p align="center">
     project_description
