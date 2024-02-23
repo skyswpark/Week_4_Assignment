@@ -26,7 +26,7 @@
 <h3 align="center">Classifying the Echoes in Sea Ice and Leads</h3>
 
   <p align="center">
-    project_description
+    <br />
     <br />
     <a href="https://github.com/skyswpark/Week_4_Assignment"><strong>Explore the docs »</strong></a>
     <br />
