@@ -142,6 +142,7 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 The accuracy score, precision score, recall score, and F1 score are also printed after the confusion matrix.
 
 <br />
+<br />
 <p align="center">
   <img src="https://github.com/skyswpark/Week_4_Assignment/assets/122312438/83550e0d-04dd-450c-894d-0188bb86e3b9" alt="Confusion Matrix">
 </p>
