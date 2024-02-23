@@ -147,10 +147,10 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 <br />
 <br />
 <br />
-<br />
 
 We can do altimetry data classification based on Sentinel-3 altimetry data using GMM clustering for more classes instead of just two classes. In this script, GMM clustering is also done for 5 classes and 10 classes.
 
+<br />
 <br />
 * Average Echo Shape of 5 Classes
 
