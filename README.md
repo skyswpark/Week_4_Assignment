@@ -109,16 +109,23 @@ The tasks in this notebook will be mainly two:
 * Discrimination of Sea ice and lead based on image classification based on Sentinel-2 optical data.
 * Discrimination of Sea ice and lead based on altimetry data classification based on Sentinel-3 altimetry data.
 
+<br />
+
 Image classification based on Sentinel-2 optical data is done using both K-means clustering and GMM clustering.
 Altimetry data classification based on Sentinel-3 altimetry data is done using GMM clustering.
 
 After classifying ice and lead from the Sentinel-3 altimetry data we can produce an average echo shape and standard deviation echo shape for the two classes, ice and lead. Then a confusion matrix is produced to quantify your echo classification against the ESA official classification.
+<br />
+<br />
 
 * Average Echo Shape of Ice and Lead
 
 <p align="center">
   <img src="https://github.com/skyswpark/Week_4_Assignment/assets/122312438/0cfcf760-4bf6-4907-a59f-44c6028b8d7f" alt="Average">
 </p>
+
+<br />
+<br />
 
 * Standard Deviation of Ice and Lead
 
