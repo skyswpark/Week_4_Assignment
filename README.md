@@ -110,6 +110,12 @@ In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="center">
+  <img src="![Average](https://github.com/skyswpark/Week_4_Assignment/assets/122312438/0cfcf760-4bf6-4907-a59f-44c6028b8d7f)
+" alt="Description of Image">
+</p>
+
+
 ![Average](https://github.com/skyswpark/Week_4_Assignment/assets/122312438/0cfcf760-4bf6-4907-a59f-44c6028b8d7f)
 
 ![STD](https://github.com/skyswpark/Week_4_Assignment/assets/122312438/6d96d7f4-58b6-4836-a97a-f68a14d51b53)
