@@ -110,6 +110,20 @@ In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+![Average](https://github.com/skyswpark/Week_4_Assignment/assets/122312438/0cfcf760-4bf6-4907-a59f-44c6028b8d7f)
+
+![STD](https://github.com/skyswpark/Week_4_Assignment/assets/122312438/6d96d7f4-58b6-4836-a97a-f68a14d51b53)
+
+![CM](https://github.com/skyswpark/Week_4_Assignment/assets/122312438/83550e0d-04dd-450c-894d-0188bb86e3b9)
+
+
+
+
+
+![Average_5](https://github.com/skyswpark/Week_4_Assignment/assets/122312438/51c79bb8-d5c0-4bf3-b711-0eca230e11ca)
+
+![Average_10](https://github.com/skyswpark/Week_4_Assignment/assets/122312438/e0d72814-1c2e-4a52-b980-8e1f632f4a1b)
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
