@@ -27,7 +27,6 @@
 
   <p align="center">
     <br />
-    <br />
     <a href="https://github.com/skyswpark/Week_4_Assignment"><strong>Explore the docs »</strong></a>
     <br />
     <br />
