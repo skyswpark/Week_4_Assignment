@@ -138,6 +138,7 @@ After classifying ice and lead from the Sentinel-3 altimetry data we can produce
 <br />
 
 * Confusion Matrix for Predicted Echo Classification (GMM) and ESA Official Classification
+The accuracy score, precision score, recall score, and F1 score are also printed after the confusion matrix.
 
 <br />
 <p align="center">
