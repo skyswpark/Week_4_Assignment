@@ -52,7 +52,7 @@
       <a href="#understanding-the-code-variables-and-functions">Understanding the Code: Variables and Functions</a>
     </li>
     <li>
-      <a href="#script">Script</a>
+      <a href="#results">Results</a>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -98,7 +98,7 @@ In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Script
+## Results
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 The tasks in this notebook will be mainly two:
