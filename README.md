@@ -49,7 +49,7 @@
       </ul>
     </li>
     <li>
-      <a href="#functions">Functions</a>
+      <a href="#Understanding-the-Code:-Variables-and-Functions">Understanding the Code: Variables and Functions</a>
     </li>
     <li>
       <a href="#script">Script</a>
@@ -85,7 +85,7 @@ This project aims to classify the echoes in leads and sea ice and produce an ave
 
 
 <!-- USAGE -->
-## Functions
+## Understanding the Code: Variables and Functions
 
 In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
