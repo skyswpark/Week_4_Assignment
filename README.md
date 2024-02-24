@@ -128,7 +128,6 @@ Altimetry data classification based on Sentinel-3 altimetry data is done using G
 After classifying ice and lead from the Sentinel-3 altimetry data we can produce an average echo shape and standard deviation echo shape for the two classes, ice and lead. Then a confusion matrix is produced to quantify your echo classification against the ESA official classification.
 
 <br />
-<br />
 
 * Average Echo Shape of Ice and Lead
 
