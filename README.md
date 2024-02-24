@@ -87,6 +87,21 @@ This project aims to classify the echoes in leads and sea ice and produce an ave
 <!-- USAGE -->
 ## Understanding the Code: Variables and Functions
 
+
+### Variables
+
+* clusters_gmm:
+* flag:
+* waves:
+* flag_cleaned:
+* esa_flag_cleaned:
+* waves_cleaned:
+* data_normalized:
+* cm:
+
+
+### Functions
+
 In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
 * **peakiness** : Calculates the peakiness of waveforms, which is a measure that compares the maximum amplitude of a waveform to its average amplitude within a specific window around the peak.
