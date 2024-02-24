@@ -90,14 +90,14 @@ This project aims to classify the echoes in leads and sea ice and produce an ave
 
 ### Variables
 
-* clusters_gmm:
-* flag:
-* waves:
-* flag_cleaned:
-* esa_flag_cleaned:
-* waves_cleaned:
-* data_normalized:
-* cm:
+* clusters_gmm: The clusters for each data point determined by the Gaussian Mixture Model (GMM). 'n_components' determines the number of components.
+* flag: The initial classification flags derived from the Sentinal-3 data.
+* waves: Waveform data for the observation points.
+* flag_cleaned: Cleaned version of 'flag', where NaN values are removed from 'flag'.
+* esa_flag_cleaned: Modified version of 'flag_cleaned' to be used for the confusion matrix. 'esa_flag_cleaned' has the true labels while 'clusters_gmm' has the predicted labels.
+* waves_cleaned: Cleaned version of 'waves', where NaN values are removed from 'waves'.
+* data_normalized: Standardized data containing sig_0_np (backscatter coefficient), PP_np (peakiness), and SSD_np (sum of squared differences).
+* cm: Confusion matrix that compares 'esa_flag_cleaned', which has the true labels, and 'clusters_gmm', which has the predicted labels.
 
 
 ### Functions
@@ -109,7 +109,7 @@ In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 * **unpack_gpod** : Handles the unpacking and interpolation of variables from a Generic Product Output Data (GPOD) format.
 
 * **calculate_SSD** : Calculates the Sum of Squared Differences (SSD) for a set of waveforms, which is a measure of the variance or spread of each waveform around its mean.
-
+s
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
