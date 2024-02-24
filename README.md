@@ -114,7 +114,7 @@ In SWP_Chapter1_Unsupervised_Learning_Methods_Michel.ipynb you will find:
 
 
 ## Results
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 The tasks in this notebook will be mainly two:
 
 * Discrimination of Sea ice and lead based on image classification based on Sentinel-2 optical data.
@@ -188,6 +188,9 @@ We can do altimetry data classification based on Sentinel-3 altimetry data using
 
 <br />
 <br />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- CONTRIBUTING -->
