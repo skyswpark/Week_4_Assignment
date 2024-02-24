@@ -49,7 +49,7 @@
       </ul>
     </li>
     <li>
-      <a href="#Understanding-the-Code:-Variables-and-Functions">Understanding the Code: Variables and Functions</a>
+      <a href="#understanding-the-code-variables-and-functions">Understanding the Code: Variables and Functions</a>
     </li>
     <li>
       <a href="#script">Script</a>
