@@ -78,6 +78,7 @@ This project aims to classify the echoes in leads and sea ice and produce an ave
 ### Prerequisites
 
 * This project uses Google Colab to run the scripts. When using Google Colab, you will need a Google account for access to Colab and your Google drive.
+* You may run the script on a different platform. Edit the file paths (directories) to properly locate your files.
 * Sentinel-2 optical data, Sentinel-3 OLCI, and altimetry data are used in this project. You will need an account (username and password) to download the data from the Copernicus dataspace.
 
 
